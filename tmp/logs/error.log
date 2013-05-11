@@ -1,0 +1,1710 @@
+2013-05-06 15:32:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /controle/css/bootstrap.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:32:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /controle/css/bootstrap-responsive.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:32:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:36:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /controle/css/bootstrap.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:36:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /controle/css/bootstrap-responsive.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:36:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:00 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/jquery/jquery.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /controle/css/main.css
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:00 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/modernizr.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:00 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:00 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/hello.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:00 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-affix.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:00 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-alert.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:01 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-dropdown.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:01 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-tooltip.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:01 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-modal.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:01 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-transition.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:02 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-button.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:02 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-popover.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:02 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-typeahead.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:02 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-carousel.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:02 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:02 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-collapse.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 15:52:02 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-tab.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /controle/css/main.css
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:52 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/modernizr.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/jquery/jquery.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/hello.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-affix.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-alert.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-dropdown.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-tooltip.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-modal.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-transition.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-button.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-popover.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:53 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-typeahead.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:54 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-carousel.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:54 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:54 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-collapse.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 16:13:54 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-tab.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:04 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/modernizr.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:05 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/scripts/hello.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:05 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-alert.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:05 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-affix.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:05 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/controle/components/modernizr/modernizr.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:05 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/jquery/jquery.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:05 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-dropdown.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:05 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/scripts/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:06 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-modal.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:06 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-transition.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:06 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-button.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:06 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-popover.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:06 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-typeahead.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:06 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-tooltip.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:06 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-carousel.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:06 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:07 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-collapse.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:07 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/components/sass-bootstrap/js/bootstrap-tab.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:18 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/pages/components/modernizr/modernizr.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:44:19 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/controle/components/modernizr/modernizr.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:26 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/modernizr.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:26 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/jquery/jquery.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:26 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/scripts/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:26 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/scripts/hello.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:26 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/modernizr.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:26 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-affix.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:26 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-alert.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:26 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-dropdown.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:27 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-tooltip.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:27 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-modal.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:27 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-transition.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:27 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-button.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:27 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-popover.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:27 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-typeahead.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:27 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-carousel.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:27 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:28 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-collapse.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:28 Error: [MissingControllerException] Controller class ControleController could not be found.
+Exception Attributes: array (
+  'class' => 'ControleController',
+  'plugin' => NULL,
+)
+Request URL: /controle/controle/components/modernizr/components/sass-bootstrap/js/bootstrap-tab.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/modernizr
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/scripts/hello.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-alert.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/scripts/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-affix.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/modernizr
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/jquery/jquery.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-dropdown.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-tooltip.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-modal.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-transition.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:46 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-button.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:47 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-popover.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:47 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-typeahead.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:47 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-carousel.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:47 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:47 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-collapse.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:45:47 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/components/sass-bootstrap/js/bootstrap-tab.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:54 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/scripts/hello.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-alert.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-dropdown.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/scripts/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-affix.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/jquery/jquery.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-tooltip.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-modal.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-transition.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-button.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-popover.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:55 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-typeahead.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:56 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-carousel.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:56 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:56 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-collapse.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:46:56 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-tab.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:00 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/hello.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:01 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/jquery/jquery.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:01 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-affix.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:01 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/scripts/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:01 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-alert.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:01 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-dropdown.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:01 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-tooltip.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:01 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-modal.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:01 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/scripts/hello.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:01 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-transition.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:01 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-button.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:02 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-popover.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:02 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-typeahead.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:02 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-carousel.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:02 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:02 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-collapse.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:47:02 Error: [MissingControllerException] Controller class ScriptsController could not be found.
+Exception Attributes: array (
+  'class' => 'ScriptsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/scripts/components/sass-bootstrap/js/bootstrap-tab.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:50:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:50:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 17:51:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 18:10:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 18:10:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 19:54:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 19:55:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 20:04:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 20:06:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 20:17:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 20:25:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 20:25:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 20:26:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 20:30:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 20:43:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 20:55:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:11:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:24:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:26:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:27:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:27:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:41:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:42:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:46:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:47:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:54:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:58:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 21:59:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 22:02:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 22:03:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 22:05:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 22:09:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 22:09:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 22:10:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 22:15:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 22:16:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 22:17:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 22:24:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-07 01:00:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-10 02:47:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /controle/css/main.css
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-10 02:47:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/hello.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-10 02:47:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/main.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/js/hello.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:35 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-affix.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:35 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/modernizr/modernizr.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:35 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/jquery/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:35 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-alert.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:35 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-tooltip.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:35 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-dropdown.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:35 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-modal.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:36 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-transition.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:36 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-button.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:37 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-popover.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:37 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-typeahead.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:37 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-carousel.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:37 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:38 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-collapse.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-11 07:41:38 Error: [MissingControllerException] Controller class ComponentsController could not be found.
+Exception Attributes: array (
+  'class' => 'ComponentsController',
+  'plugin' => NULL,
+)
+Request URL: /controle/components/sass-bootstrap/js/bootstrap-tab.js
+Stack Trace:
+#0 C:\xampp\htdocs\controle\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
