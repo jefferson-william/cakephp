@@ -49,25 +49,6 @@
         s.parentNode.insertBefore(g,s)}(document,'script'));
     </script>
 
-    <?php
-    	echo $this->Html->script($this->Html->url('/components/jquery/jquery.min.js', true)) . PHP_EOL;
-    	echo $this->Html->script('main') . PHP_EOL;
-
-    	echo $this->Html->script('hello') . PHP_EOL;
-
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-affix.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-alert.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-dropdown.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-tooltip.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-modal.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-transition.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-button.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-popover.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-typeahead.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-carousel.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-scrollspy.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-collapse.js', true)) . PHP_EOL;
-    	echo $this->Html->script($this->Html->url('/components/sass-bootstrap/js/bootstrap-tab.js', true)) . PHP_EOL;
-    ?>
+    <?php echo $this->Html->script('main') . PHP_EOL; ?>
 </body>
 </html>

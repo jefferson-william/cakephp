@@ -5,6 +5,7 @@
         <ul>
             <li>HTML5 Boilerplate</li>
             <li>Twitter Bootstrap</li>
+            <li>RequireJS</li>
         </ul>
         <p>installed.</p>
         <h3>Enjoy coding! - Yeoman</h3>
