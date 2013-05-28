@@ -9,6 +9,7 @@ webroot/components
 # User specific & automatically generated files #
 
 Config/database.php
+webroot/files
 tmp
 
 # OS generated files #

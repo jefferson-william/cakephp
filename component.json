@@ -1,11 +1,12 @@
 {
-  "name": "yo",
+  "name": "todo",
   "version": "0.0.0",
   "dependencies": {
-  	"angular": "https://github.com/jefferson-william/angularjs.git",
     "sass-bootstrap": "~2.3.0",
+    "requirejs": "~2.1.4",
     "modernizr": "~2.6.2",
-    "jquery": "~1.9.1"
+    "jquery": "~1.9.1",
+    "angular": "git@github.com:jefferson-william/angularjs.git"
   },
   "devDependencies": {}
 }
