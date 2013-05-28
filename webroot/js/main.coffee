@@ -10,9 +10,6 @@ require.config
 		angular:
 			deps: ['jquery']
 			exports: 'angular'
-		angular_resource:
-			deps: ['angular']
-			exports: 'angular_resource'
 		controllers:
 			deps: ['angular', 'angular_resource']
 			exports: 'controllers'
@@ -26,7 +23,7 @@ require [
 	'angular'
 	'controllers'
 	'app'
-], (jquery, bootstrap, angular, app, controllers) ->
+], (jquery, bootstrap, angular, controllers, app) ->
 
 	console.log 'jQuery JavaScript Library v1.9.1'
 	console.log 'Twitter Bootstrap v2.3.1'

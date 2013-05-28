@@ -120,20 +120,6 @@ module.exports = function (grunt) {
                 }
             }
         },
-        /*copy: {
-            dist: {
-                files: [{
-                    expand: true,
-                    dot: true,
-                    cwd: '<%= yeoman.app %>',
-                    dest: '<%= yeoman.app %>',
-                    src: [
-                        '*.{ico,txt}',
-                        '.htaccess'
-                    ]
-                }]
-            }
-        },*/
         bower: {
             all: {
                 rjsConfig: '<%= yeoman.app %>/js/main.js'
