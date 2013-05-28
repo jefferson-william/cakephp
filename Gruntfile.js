@@ -41,7 +41,10 @@ module.exports = function (grunt) {
             }
         },
         clean: {
-            dist: ['<%= yeoman.app %>/css/main.css']
+            dist: [
+                '<%= yeoman.app %>/css/main.css',
+                '<%= yeoman.app %>/js/main.js'
+            ]
         },
         jshint: {
             options: {
@@ -83,7 +86,7 @@ module.exports = function (grunt) {
             }
         },
         requirejs: {
-            dist: {
+            dev: {
                 // Options: https://github.com/jrburke/r.js/blob/master/build/example.build.js
                 options: {
                     // `name` and `out` is set by grunt-usemin
@@ -97,6 +100,27 @@ module.exports = function (grunt) {
                     preserveLicenseComments: false,
                     useStrict: true,
                     wrap: true,
+                    name: 'main'
+                    // out: 
+                    //uglify2: {} // https://github.com/mishoo/UglifyJS2
+                }
+            },
+            dist: {
+                // Options: https://github.com/jrburke/r.js/blob/master/build/example.build.js
+                options: {
+                    // `name` and `out` is set by grunt-usemin
+                    baseUrl: 'webroot/js',
+                    optimize: 'uglify2',
+                    // TODO: Figure out how to make sourcemaps work with grunt-usemin
+                    // https://github.com/yeoman/grunt-usemin/issues/30
+                    //generateSourceMaps: true,
+                    // required to support SourceMaps
+                    // http://requirejs.org/docs/errors.html#sourcemapcomments
+                    preserveLicenseComments: false,
+                    useStrict: true,
+                    wrap: true,
+                    out: 'main.js',
+                    name: 'main'
                     //uglify2: {} // https://github.com/mishoo/UglifyJS2
                 }
             }
@@ -137,20 +161,20 @@ module.exports = function (grunt) {
         'watch'
     ]);
 
-    grunt.registerTask('build', [
-        'clean',
-        'coffee',
-        'compass:dist',
-        'requirejs',
-        'imagemin',
-        'cssmin'
-    ]);
-
     grunt.registerTask('default', [
         'clean',
         'coffee',
         'compass:server',
         'livereload-start',
         'watch'
+    ]);
+
+    grunt.registerTask('build', [
+        'clean',
+        'coffee',
+        'requirejs:dist',
+        'compass:dist',
+        'cssmin',
+        'imagemin'
     ]);
 };

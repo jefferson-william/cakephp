@@ -4,6 +4,8 @@ require.config
 		bootstrap: 'vendor/bootstrap'
 		angular: '../components/angular/angular'
 	shim:
+		jquery:
+			exports: 'jquery'
 		bootstrap:
 			deps: ['jquery']
 			exports: 'jquery'
@@ -11,16 +13,16 @@ require.config
 			deps: ['jquery']
 			exports: 'angular'
 		controllers:
-			deps: ['angular', 'angular_resource']
+			deps: ['angular']
 			exports: 'controllers'
 		app:
-			deps: ['angular', 'angular_resource', 'controllers']
+			deps: ['angular', 'controllers']
 			exports: 'app'
 
 require [
-	'jquery'
-	'bootstrap'
-	'angular'
+	'../components/jquery/jquery'
+	'vendor/bootstrap'
+	'../components/angular/angular'
 	'controllers'
 	'app'
 ], (jquery, bootstrap, angular, controllers, app) ->
